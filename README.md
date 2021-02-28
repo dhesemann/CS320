@@ -1,6 +1,5 @@
 # CS320
 # How can I ensure that my code, program, or software is functional and secure?
-Test extensively. Try not to get hacked. Security training
 I can ensure my code is functional by testing extensively.  Test cases should test that the program behaves as expected when being used properly, and also that it behaves as expected when used incorrectly, for example if a user enters invalid input.  Testing can also help to keep code secure by identifying vulnerabilities in the code.	
 
 # How do I interpret user needs and incorporate them into a program?
